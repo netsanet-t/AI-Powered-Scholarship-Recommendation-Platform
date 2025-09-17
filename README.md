@@ -78,11 +78,11 @@ The API returns a personalized list of scholarships.
 
 🤝 Co-Development Acknowledgment
 
-This platform was co-developed with [Partner’s Name/Organization].
+This platform was co-developed with Abel Girmay Embaye.
 
 My Role: Backend development, AI matching pipeline (SentenceTransformers), and database integration with PostgreSQL.
 
-Partner’s Role: [e.g., Frontend development, UI/UX design, and integration testing].
+Partner’s Role: Frontend development, UI/UX design, and integration testing.
 
 📈 Future Improvements
 
@@ -96,4 +96,4 @@ Deploy on cloud (AWS/GCP/Azure).
 
 📜 License
 
-This project is licensed under the MIT License.# My Project
+This project is licensed under the MIT License.
